@@ -15,3 +15,5 @@ Upload these files to the root of your `irealtofu-dev` GitHub repository. The de
 `npx wrangler deploy --assets .`
 
 The repository root should contain `index.html`, `styles.css`, and `script.js`.
+
+// N/A
