@@ -96,6 +96,8 @@ h1 { margin: 25px 0 22px; font-size: clamp(48px, 6.1vw, 78px); line-height: 1.04
 .project-links { display: flex; gap: 23px; border-top: 1px solid var(--line); padding-top: 20px; }
 .project-link { font-size: 11px; font-weight: 700; color: var(--orange-light); }.project-link span { margin-left: 7px; }.muted-link { color: var(--muted); }
 .coming-soon { display: flex; align-items: center; gap: 18px; padding: 22px 25px; margin-top: 15px; border: 1px dashed #c5a15a45; border-radius: 9px; }
+.section-more { display: flex; justify-content: flex-end; align-items: center; margin-top: 25px; width: 100%; }
+.section-more .button { display: inline-flex; align-items: center; justify-content: center; gap: 10px; }
 .coming-icon { width: 34px; height: 34px; display: grid; place-items: center; border-radius: 50%; background: #c66a351a; color: var(--orange-light); font-size: 20px; }
 .coming-soon strong { font-size: 12px; }.coming-soon p { margin: 5px 0 0; color: var(--muted); font-size: 11px; }.coming-label { margin-left: auto; color: var(--gold); font-size: 8px; letter-spacing: .15em; font-weight: 700; }
 .about-section { background: #1b1615; border-block: 1px solid var(--line); padding: 100px 0; }
