@@ -1,0 +1,14 @@
+
+{
+  "name": "cua-staff-portal-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-18",
+  "workers_dev": true,
+  "d1_databases": [
+    {
+      "binding": "PORTAL_DB",
+      "database_name": "cua-staff-portal",
+      "database_id": "3464146b-9d9b-4dc8-825e-d4f3647841da"
+    }
+  ]
+}
